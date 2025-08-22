@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33F7F7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinícius von Glehn!+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33F7F7&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinícius+von+Glehn!+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -23,8 +23,8 @@
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 <div align="center">
   <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
