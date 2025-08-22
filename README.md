@@ -5,25 +5,24 @@
 </h1>
 
 <p align="center">
-  <em>Breve descrição sobre você: O que você faz, suas paixões, etc. Ex: "Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis."</em>
+  <em>Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis.</em>
 </p>
 <p align="center">
-  🔭 Atualmente trabalhando em um projeto pessoal com [Tecnologia X] e [Tecnologia Y].<br>
+  🔭 Atualmente trabalhando em um projeto pessoal com React Native e TypeScript.<br>
   🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes.<br>
   💬 Pergunte-me sobre: JavaScript, React, Node.js, e boas práticas de desenvolvimento.<br>
-  📫 Como me encontrar: <a href="mailto:SEU-EMAIL-AQUI">seu-email@exemplo.com</a>
+  📫 Como me encontrar: <a href="mailto:viniciusvon.contato@gmail.com">viniciusvon.contato@gmail.com</a>
 </p>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN-AQUI/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/SEU-USUARIO-TWITTER-AQUI" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/vinicius-von-glehn-severo-171684225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <hr>
 
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-AQUI">
+  <a href="https://github.com/ViniciusVon">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
   </a>
