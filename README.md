@@ -10,7 +10,7 @@
 <p align="center">
   🔭 Atualmente trabalhando em um projeto pessoal com React Native e TypeScript.<br>
   🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes.<br>
-  💬 Pergunte-me sobre: JavaScript, React, Node.js, e boas práticas de desenvolvimento.<br>
+  💬 Pergunte-me sobre: TypeScript, React, Node.js, PHP, Java e boas práticas de desenvolvimento.<br>
   📫 Como me encontrar: <a href="mailto:viniciusvon.contato@gmail.com">viniciusvon.contato@gmail.com</a>
 </p>
 
