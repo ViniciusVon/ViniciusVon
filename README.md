@@ -24,7 +24,7 @@
 <div align="center">
   <a href="https://github.com/ViniciusVon">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViniciusVon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=dracula&v=2"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
