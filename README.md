@@ -23,16 +23,16 @@
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 <div align="center">
   <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=shadow_green"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=ViniciusVon&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=ViniciusVon&theme=shadow_green&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
   </a>
 </div>
 
