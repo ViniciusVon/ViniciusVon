@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&hide=javascript,css,html&theme=catppuccin_latte"/>
   </a>
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://streak-stats.demolab.com?user=ViniciusVon&theme=catppuccin_latte&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
