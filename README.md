@@ -5,49 +5,60 @@
 </h1>
 
 <p align="center">
-  <em>💻 Desenvolvedor Full Stack | 🚀 Criando soluções inovadoras e escaláveis</em>
-</p>
-
----
-
-### 🌐 Conecte-se comigo
-<p align="center">
-  <a href="mailto:viniciusvon.contato@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vinicius-von-glehn-severo-171684225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=tokyonight"/>
+  <em>Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis.</em>
 </p>
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=ViniciusVon&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  🔭 Atualmente trabalhando em um projeto pessoal com React Native e TypeScript.<br>
+  🌱 Aprendendo mais sobre Arquitetura de Microsserviços e Kubernetes.<br>
+  💬 Pergunte-me sobre: TypeScript, React, Node.js, PHP, Java e boas práticas de desenvolvimento.<br>
+  📫 Como me encontrar: <a href="mailto:viniciusvon.contato@gmail.com">viniciusvon.contato@gmail.com</a>
 </p>
 
----
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/vinicius-von-glehn-severo-171684225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
-### 🛠️ Tecnologias
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-</p>
+<hr>
 
----
+<h3 align="center">⚡ Estatísticas do GitHub</h3>
+<div align="center">
+  <a href="https://github.com/ViniciusVon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-### 🐍 Minhas Contribuições
-<p align="center">
-  <img src="https://github.com/ViniciusVon/ViniciusVon/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+  <a href="https://github.com/ViniciusVon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVon&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=ViniciusVon&theme=catppuccin_latte&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
+
+<hr>
+
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+<div align="center">
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </p>
+  <h4>Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </p>
+  <h4>Banco de Dados & Ferramentas</h4>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </p>
+</div>
