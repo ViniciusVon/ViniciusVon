@@ -22,9 +22,7 @@
 
 <h3 align="center">⚡ Estatísticas do GitHub</h3>
 <div align="center">
-  <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVon&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 
 <div align="center">
