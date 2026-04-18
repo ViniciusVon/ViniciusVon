@@ -75,12 +75,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ViniciusVon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusVon&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-glehn">
